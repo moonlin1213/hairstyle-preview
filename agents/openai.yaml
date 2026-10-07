@@ -1,0 +1,6 @@
+interface:
+  display_name: "发型预览设计"
+  short_description: "上传人像照片，保留本人五官，生成十五款发型对照图与视觉建议"
+  default_prompt: "使用 $hairstyle-preview，根据我上传的照片设计适合尝试的发型，并生成一张多种发型预览参考图。"
+policy:
+  allow_implicit_invocation: true

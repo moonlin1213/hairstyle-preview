@@ -1,0 +1,22 @@
+# Personal photos, generated previews, archives, and private configuration
+.DS_Store
+.env
+.env.*
+*.key
+*.pem
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.heic
+*.pdf
+*.zip
+*.sqlite*
+*.db
+output/
+outputs/
+tmp/
+private/
+photos/
+generated_images/
